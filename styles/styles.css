@@ -387,7 +387,7 @@ body {
     height: 64px;
     display: block;
     border-radius: 100%;
-    background-image: url(images/arrow.svg);
+    background-image: url('/images/arrow.svg');
     background-repeat: no-repeat;
     background-position: center center;
     border: 2px solid rgba(var(--purple-rgb), 0.2);
