@@ -162,15 +162,15 @@ body {
 }
 
 .stat-item--icon--01 {
-    background-image: url(/images/icon01.svg);
+    background-image: url(images/icon01.svg);
 }
 
 .stat-item--icon--02 {
-    background-image: url(/images/icon02.svg);
+    background-image: url(images/icon02.svg);
 }
 
 .stat-item--icon--03 {
-    background-image: url(/images/icon03.svg);
+    background-image: url(images/icon03.svg);
 }
 
 .stat-item--text {
@@ -387,7 +387,7 @@ body {
     height: 64px;
     display: block;
     border-radius: 100%;
-    background-image: url(/images/arrow.svg);
+    background-image: url(images/arrow.svg);
     background-repeat: no-repeat;
     background-position: center center;
     border: 2px solid rgba(var(--purple-rgb), 0.2);
